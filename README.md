@@ -1,3 +1,5 @@
+![Thank you for visting my profile](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 ### 
 
 <!--
@@ -15,41 +17,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💬  I am a curious and ambitious, passionate and responsible web developer with a get-it-done, on-time spirit and more than a decade of solid experience designing, implementing and adapting technically sophisticated online web applications using web technologies like PHP(Laravel, Symfony), Ruby on Rails, Node.js, Django, Vue.js, React, Angular and more.
+💬  I am an expert on the ground of web development, and have been in this business for 7 years, and can do many things related to the job. 
+   I am quite adept in coding and markup languages and in creating applications using client server model including.
+    
+⚡  I am quite adept in coding and markup languages and in creating applications using client server model including.
+  - Javascript, Vue.js, React.js, Angular, Flutter, Node.js.
+  - PHP, Laravel, Symfony, CakePHP.
+  - Python, Django, Flask.
 
-💬  I am smart, driven, curious, resourceful, and not afraid to fail, so I built many complex,
-intelligent, and secure web applications with modern web technologies, both client-side and
-server-side for implementation in mission-critical environments.
+💬  I have honored by bachelor’s degree on Software Engineering and had many certificates related the course-work of web developing. 
+	
+⚡  I have got
+  - Experience with large, complex code bases and know how to maintain them
+  - Solid understanding of performance implications and scalability of code
+  - Keenness for writing good, meaningful tests and maintaining thorough test coverage
+  - High demand on the market of web developing
 
-⚡ My qualifications are as follows.
-  - 7+ years of professional experience working in a fast-paced environment.
-  - Significant experience building and shipping state-driven UIs, preferably with Vue, Angular, React.
-  - Extensive experience with database technologies such as SQL and Mongo.
-  - Proficient with modern Javascript (ES6+: Classes, modules, arrow functions, async/await, destructuring, etc.).
-  - Strong software development fundamentals (data structures, algorithms, etc.).
-  - Keenness for writing good, meaningful tests and maintaining thorough test coverage.
-  - Experience with large, complex code bases and know how to maintain them.
-  - Solid understanding of performance implications and scalability of code.
-  - Experience in: Kubernetes cluster hosted on AWS EC2 nodes, WebRTC, Web Sockets, Electron, CI/CD, GraphQL and Apollo.
-
-⚡ Web back end development
-  - Python and its frameworks: Django, Flask
-  - PHP and its MVC frameworks: Laravel, CodeIgniter, CakePHP, Yii, Symfony
-  - Ruby on Rails
-  - Node.js
-
-⚡ Web front end development
-  - Meanstack: Angular.js, Express.js, Node.js, MongoDB
-  - React.js, Redux, React Native
-  - HTML5, CSS3/SCSS/LESS, Twitter Bootstrap, jQuery
-  - Vue.js, Ember.js, Backbone.js
-
-⚡ Database design/management
-  - MySQL
-  - PostgresSQL
-  - MSSQL
-  - MongoDB
+💬 I have always been so devoted to my work and give my level best to any project I take in hand. 
+  Thank you for visiting my profile.
 
 📫 Contacts
-   - skype: webdeveloper1027
-   - email: webstar1027@gmail.com
+   - [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:webstar1027@gmail.com)](mailto:webstar1027@gmail.com)
