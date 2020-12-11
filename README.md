@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💬  I am an expert on the ground of web development, and have been in this business for 7 years, and can do many things related to the job. 
-   I am quite adept in coding and markup languages and in creating applications using client server model including.
+💬    I am an expert on the ground of web development, and have been in this business for 7 years, and can do many things related to the job. 
+     I am quite adept in coding and markup languages and in creating applications using client server model including.
     
 ⚡  I am quite adept in coding and markup languages and in creating applications using client server model including.
   - Javascript, Vue.js, React.js, Angular, Flutter, Node.js.
@@ -35,4 +35,4 @@ Here are some ideas to get you started:
   Thank you for visiting my profile.
 
 📫 Contacts
-   - [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:webstar1027@gmail.com)](mailto:webstar1027@gmail.com)
+  [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:webstar1027@gmail.com)](mailto:webstar1027@gmail.com)
