@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   - Solid understanding of performance implications and scalability of code
   - Keenness for writing good, meaningful tests and maintaining thorough test coverage
   - High demand on the market of web developing
-
+  : https://youtu.be/9vh1G-iJz80 , https://youtu.be/W0da4ch5PnM, https://www.youtube.com/watch?v=OdO4L04ttAw
 💬 I have always been so devoted to my work and give my level best to any project I take in hand. 
   Thank you for visiting my profile.
 
