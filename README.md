@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 ⚡  I am quite adept in coding and markup languages and in creating applications using client server model including.
   - Javascript, Vue.js, React.js, Angular, Flutter, Node.js.
   - PHP, Laravel, Symfony, CakePHP.
-  - Python, Django, Flask.
+  - Python, Django, Flask, Java spring boot, Ruby on Rails, ASP.net.
+  - Dapp, Defi, NFT market place development
 
 💬  I have honored by bachelor’s degree on Software Engineering and had many certificates related the course-work of web developing. 
 	
