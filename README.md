@@ -18,16 +18,16 @@ Here are some ideas to get you started:
 💬    I am an expert on the ground of web development, and have been in this business for 7 years, and can do many things related to the job. 
      I am quite adept in coding and markup languages and in creating applications using client server model including.
     
-🔹 HTML5, CSS3 (Bootstrap 4|5, Tailwind CSS, SASS)
-🔹 JavaScript|TypeScript(React, Angular 8,9,10, Vue, Material UI, Styled Components)
-🔹 SEO(Next.js, Nuxt.js)
-🔹 PHP(Laravel&CI), Node.js(Express.js, NestJS), C#(Asp.NET)
-🔹 Python(Django, Flask), BaaS( AWS Amplify, Google Firebase, Microsoft Azure), Wordpress, Shopify
-🔹 MySQL, MongoDB, DynamoDB, Maria DB, RDS.
-🔹 Figma, Adobe Photoshop, Adobe XD.
-🔹 React Native, Ionic frameworks, Flutter.
-🔹 Solidity, Rust, Web3.js/Ether.js, Smart Contract
-🔹 Crypto Token, NFT Marketplace, DEX(Pancake/Uniswap), DeFi, DApp, Ethereum/BSC/Solana
+-  HTML5, CSS3 (Bootstrap 4|5, Tailwind CSS, SASS)
+-  JavaScript|TypeScript(React, Angular 8,9,10, Vue, Material UI, Styled Components)
+-  SEO(Next.js, Nuxt.js)
+-  PHP(Laravel&CI), Node.js(Express.js, NestJS), C#(Asp.NET)
+-  Python(Django, Flask), BaaS( AWS Amplify, Google Firebase, Microsoft Azure), Wordpress, Shopify
+-  MySQL, MongoDB, DynamoDB, Maria DB, RDS.
+-  Figma, Adobe Photoshop, Adobe XD.
+-  React Native, Ionic frameworks, Flutter.
+-  Solidity, Rust, Web3.js/Ether.js, Smart Contract
+-  Crypto Token, NFT Marketplace, DEX(Pancake/Uniswap), DeFi, DApp, Ethereum/BSC/Solana
 
 💬  I have honored by bachelor’s degree on Software Engineering and had many certificates related the course-work of web developing. 
 	
